@@ -1,0 +1,5 @@
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductDB\bin\Debug\ProductDB.dacpac
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductDB\bin\Debug\ProductDB.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductDB\bin\Debug\ProductDB.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductDB\obj\Debug\ProductDB.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductDB\obj\Debug\ProductDB.pdb

@@ -1,0 +1,9 @@
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\bin\Debug\ProductLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\bin\Debug\ProductLibrary.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\obj\Debug\ProductLibrary.csprojResolveAssemblyReference.cache
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\obj\Debug\ProductLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\obj\Debug\ProductLibrary.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\bin\Debug\Dapper.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\bin\Debug\Dapper.xml
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\bin\Debug\CommonLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\ProductLibrary\bin\Debug\CommonLibrary.pdb

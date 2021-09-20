@@ -1,0 +1,4 @@
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CommonLibrary\obj\Debug\CommonLibrary.pdb

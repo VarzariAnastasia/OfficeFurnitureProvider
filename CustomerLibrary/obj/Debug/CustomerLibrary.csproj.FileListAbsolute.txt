@@ -1,0 +1,9 @@
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\obj\Debug\CustomerLibrary.csprojResolveAssemblyReference.cache
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\bin\Debug\CustomerLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\bin\Debug\CustomerLibrary.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\bin\Debug\Dapper.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\bin\Debug\Dapper.xml
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\obj\Debug\CustomerLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\obj\Debug\CustomerLibrary.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\bin\Debug\CommonLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerLibrary\bin\Debug\CommonLibrary.pdb

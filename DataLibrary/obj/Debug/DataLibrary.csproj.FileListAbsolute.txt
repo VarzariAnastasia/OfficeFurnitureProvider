@@ -1,0 +1,4 @@
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\DataLibrary\bin\Debug\DataLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\DataLibrary\obj\Debug\DataLibrary.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\DataLibrary\obj\Debug\DataLibrary.pdb

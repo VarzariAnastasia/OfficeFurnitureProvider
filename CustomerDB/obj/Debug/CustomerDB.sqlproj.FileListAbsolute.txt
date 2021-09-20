@@ -1,0 +1,6 @@
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerDB\bin\Debug\CustomerDB.dacpac
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerDB\bin\Debug\CustomerDB.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerDB\bin\Debug\CustomerDB.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerDB\obj\Debug\CustomerDB.dll
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerDB\obj\Debug\CustomerDB.pdb
+D:\BROOKS\Personal\VII\OFP_VS_2015\OfficeFurnitureProvider\CustomerDB\obj\Debug\CustomerDB.sqlprojAssemblyReference.cache
